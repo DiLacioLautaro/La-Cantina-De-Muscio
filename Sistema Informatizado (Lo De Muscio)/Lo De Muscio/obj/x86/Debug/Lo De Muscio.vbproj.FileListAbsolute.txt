@@ -1,0 +1,1419 @@
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+G:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\Analisis De Sistemas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuABMvb.resources
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+C:\Users\alumno\Desktop\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\Pendrivealen\La Cantina De Muscio\Programas\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarUser.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_FacturaReserva.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+G:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_FacturaReserva.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CambiarContraseña.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.abmm.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+E:\NEWWWW\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_FacturaReserva.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CambiarContraseña.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+G:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+G:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+G:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CambiarContraseña.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\REFRESHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarIngProv.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+H:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+H:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+H:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarIngProv.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CambiarContraseña.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProdProv.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarIngProv.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProdProv.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+G:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+E:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\NEWWWW\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarIngProv.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProdProv.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\NEWWWW\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+F:\usuarios\alumno\Escritorio\REFRESHHH\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\Lo de Muscio - Casi!\Base, Programa, Inserts\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\12 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\13 - 11 LODEMUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+G:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+G:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+G:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\13 -11 LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+F:\usuarios\alumno\Escritorio\ULTIMO LO DE MUSCIO\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+E:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+G:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.vbproj.GenerateResource.Cache
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.exe
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.pdb
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\bin\Debug\Lo De Muscio.xml
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmABM.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarCom.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarCom.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModCom.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarEmp.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarEmpleado.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModEmpleado.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarInG.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarIngr.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModIngred.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CargarMenu.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarProd.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProd.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProd.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBajaProv.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarProveedor.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModProv.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacProv.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvIng.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvI.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorProvP.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCarProvP.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarSer.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSer.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModServ.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Background.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaDiaria.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.BuscarCajaMensual.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreDiario.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CierreMensual.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuCierreCaja.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Comanda.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCompras.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CrearComanda.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Facturar.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmKiosco.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmTicketFactura.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Mesass.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Inicio_Sesion.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmMenuP.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Resources.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.CancelacionDePago.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Imprimir_ComprobanteReserva.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboSalon.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reservas.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.SalonMenu.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.AutorizacionMenor.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarMenor.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModMenor.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocBorrar.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarMenor.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCargarSocio.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MorososCC.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmModSocio.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Pago_CC.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmSocios.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.ReciboCC.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmReacSocio.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompra.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.OrdenCompraImpr.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.MenuStock.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Cheque.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PagoProv.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.PuntoPedido.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Recepción_De_Meraderia.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.Reclamo_Imprimir.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmBorrarUser.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCambCon.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmCamPerm.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmRegisUser.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo_De_Muscio.frmUsuarios.resources
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+F:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+F:\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+C:\Users\Florencia\Desktop\Not That Important Things\USB VALEN 04-12\2019 Memories ;)\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+C:\Users\Florencia\Desktop\Not That Important Things\USB VALEN 04-12\2019 Memories ;)\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+C:\Users\Florencia\Desktop\Not That Important Things\USB VALEN 04-12\2019 Memories ;)\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb
+C:\Users\Florencia\Desktop\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.exe
+C:\Users\Florencia\Desktop\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.xml
+C:\Users\Florencia\Desktop\LO DE MUSCIO ENTREGABLES\Programa Terminado LODEMUSCIO\Lo De Muscio\obj\x86\Debug\Lo De Muscio.pdb

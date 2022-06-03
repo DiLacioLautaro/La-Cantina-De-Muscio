@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6C01C820-4ECC-4552-AF09-2F268CC61925}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Lo_De_Muscio.My.MyApplication</StartupObject>
+    <RootNamespace>Lo_De_Muscio</RootNamespace>
+    <AssemblyName>Lo De Muscio</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Lo De Muscio.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Lo De Muscio.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICONN.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM\ABM.designer.vb">
+      <DependentUpon>ABM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ABM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Comidas\frmBorrarCom.designer.vb">
+      <DependentUpon>frmBorrarCom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Comidas\frmBorrarCom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Comidas\frmCargarCom.designer.vb">
+      <DependentUpon>frmCargarCom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Comidas\frmCargarCom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Comidas\frmModCom.designer.vb">
+      <DependentUpon>frmModCom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Comidas\frmModCom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Empleados\BorrarEmp.designer.vb">
+      <DependentUpon>BorrarEmp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Empleados\BorrarEmp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Empleados\CargarEmpleado.designer.vb">
+      <DependentUpon>CargarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Empleados\CargarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Empleados\ModEmpleado.designer.vb">
+      <DependentUpon>ModEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Empleados\ModEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Ingredientes\BorrarIng.designer.vb">
+      <DependentUpon>BorrarIng.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Ingredientes\BorrarIng.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Ingredientes\frmCargarIngr.designer.vb">
+      <DependentUpon>frmCargarIngr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Ingredientes\frmCargarIngr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Ingredientes\ModIngred.designer.vb">
+      <DependentUpon>ModIngred.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Ingredientes\ModIngred.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Menues Diarios\CargarMenu.designer.vb">
+      <DependentUpon>CargarMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Menues Diarios\CargarMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Productos\BorrarProd.designer.vb">
+      <DependentUpon>BorrarProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Productos\BorrarProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Productos\CargarProducto.designer.vb">
+      <DependentUpon>CargarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Productos\CargarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Productos\ModProd.designer.vb">
+      <DependentUpon>ModProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Productos\ModProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\BajaProv.designer.vb">
+      <DependentUpon>BajaProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\BajaProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\Cargar\CargarProveedor.designer.vb">
+      <DependentUpon>CargarProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\Cargar\CargarProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\ModProv.designer.vb">
+      <DependentUpon>ModProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\ModProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\ReacProv.designer.vb">
+      <DependentUpon>ReacProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\ReacProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ProvIngr\frmBorProvIng.designer.vb">
+      <DependentUpon>frmBorProvIng.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ProvIngr\frmBorProvIng.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ProvIngr\frmCarProvI.designer.vb">
+      <DependentUpon>frmCarProvI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ProvIngr\frmCarProvI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ProvProd\BorProvP.designer.vb">
+      <DependentUpon>BorProvP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ProvProd\BorProvP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ProvProd\CarProvP.designer.vb">
+      <DependentUpon>CarProvP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ProvProd\CarProvP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Servicios\BorrarSer.designer.vb">
+      <DependentUpon>BorrarSer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Servicios\BorrarSer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Servicios\CarSer.designer.vb">
+      <DependentUpon>CarSer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Servicios\CarSer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Servicios\ModSer.designer.vb">
+      <DependentUpon>ModSer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Servicios\ModSer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Background.Designer.vb">
+      <DependentUpon>Background.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Background.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cierre Caja\BuscarCajaDiaria.Designer.vb">
+      <DependentUpon>BuscarCajaDiaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cierre Caja\BuscarCajaDiaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cierre Caja\BuscarCajaMensual.Designer.vb">
+      <DependentUpon>BuscarCajaMensual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cierre Caja\BuscarCajaMensual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cierre Caja\CierreDiario.Designer.vb">
+      <DependentUpon>CierreDiario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cierre Caja\CierreDiario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cierre Caja\CierreMensual.Designer.vb">
+      <DependentUpon>CierreMensual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cierre Caja\CierreMensual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cierre Caja\MenuCierreCaja.Designer.vb">
+      <DependentUpon>MenuCierreCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cierre Caja\MenuCierreCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Comanda.Designer.vb">
+      <DependentUpon>Comanda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Comanda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Compras.designer.vb">
+      <DependentUpon>Compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\CrearComanda.Designer.vb">
+      <DependentUpon>CrearComanda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\CrearComanda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Facturar.designer.vb">
+      <DependentUpon>Facturar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Facturar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\frmKiosco.designer.vb">
+      <DependentUpon>frmKiosco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\frmKiosco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\frmTicketFactura.Designer.vb">
+      <DependentUpon>frmTicketFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\frmTicketFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Mesas.designer.vb">
+      <DependentUpon>Mesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Mesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio_Sesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio_Sesion.Designer.vb">
+      <DependentUpon>Inicio_Sesion.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menues\MenuPrincipal.Designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menues\MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Salon\CancelacionDePago.Designer.vb">
+      <DependentUpon>CancelacionDePago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\CancelacionDePago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon\Imprimir_ComprobanteReserva.Designer.vb">
+      <DependentUpon>Imprimir_ComprobanteReserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\Imprimir_ComprobanteReserva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon\ReciboSalon.Designer.vb">
+      <DependentUpon>ReciboSalon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\ReciboSalon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon\Reservas.Designer.vb">
+      <DependentUpon>Reservas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\Reservas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon\SalonMenu.Designer.vb">
+      <DependentUpon>SalonMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salon\SalonMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\AutorizacionMenor.Designer.vb">
+      <DependentUpon>AutorizacionMenor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\AutorizacionMenor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\BorrarMenor.designer.vb">
+      <DependentUpon>BorrarMenor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\BorrarMenor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\ModMenor.designer.vb">
+      <DependentUpon>ModMenor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\ModMenor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\BorrarSocio.designer.vb">
+      <DependentUpon>BorrarSocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\BorrarSocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\CargarMenor.designer.vb">
+      <DependentUpon>CargarMenor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Menores Autorizados\CargarMenor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\CargarSocio.designer.vb">
+      <DependentUpon>CargarSocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\CargarSocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\Cuenta Corriente\MorososCC.Designer.vb">
+      <DependentUpon>MorososCC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\Cuenta Corriente\MorososCC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\ModSocio.designer.vb">
+      <DependentUpon>ModSocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\ModSocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\Cuenta Corriente\Pago CC.Designer.vb">
+      <DependentUpon>Pago CC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\Cuenta Corriente\Pago CC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios.designer.vb">
+      <DependentUpon>Socios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\Cuenta Corriente\ReciboCC.Designer.vb">
+      <DependentUpon>ReciboCC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\Cuenta Corriente\ReciboCC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\Socios\ReacSocio.designer.vb">
+      <DependentUpon>ReacSocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\Socios\ReacSocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Generar OrdenCompra\OrdenCompra.Designer.vb">
+      <DependentUpon>OrdenCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Generar OrdenCompra\OrdenCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Generar OrdenCompra\OrdenCompraImpr.Designer.vb">
+      <DependentUpon>OrdenCompraImpr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Generar OrdenCompra\OrdenCompraImpr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\MenuStock.Designer.vb">
+      <DependentUpon>MenuStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\MenuStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Pago a Proveedor\Cheque.Designer.vb">
+      <DependentUpon>Cheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Pago a Proveedor\Cheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Pago a Proveedor\PagoProv.Designer.vb">
+      <DependentUpon>PagoProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Pago a Proveedor\PagoProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Punto de Pedido\PuntoPedido.Designer.vb">
+      <DependentUpon>PuntoPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Punto de Pedido\PuntoPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Recepcion de Mercaderia\Recepción De Mercaderia.Designer.vb">
+      <DependentUpon>Recepción De Mercaderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Recepcion de Mercaderia\Recepción De Mercaderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Recepcion de Mercaderia\Reclamo_Imprimir.Designer.vb">
+      <DependentUpon>Reclamo_Imprimir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock Y Reposicion\Recepcion de Mercaderia\Reclamo_Imprimir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\BorrarUser.designer.vb">
+      <DependentUpon>BorrarUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\BorrarUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\CambiarContraseña.designer.vb">
+      <DependentUpon>CambiarContraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\CambiarContraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\CamPerm.designer.vb">
+      <DependentUpon>CamPerm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\CamPerm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\RegistrarUser.designer.vb">
+      <DependentUpon>RegistrarUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\RegistrarUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\Usuarios.designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ABM\ABM.resx">
+      <DependentUpon>ABM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Comidas\frmBorrarCom.resx">
+      <DependentUpon>frmBorrarCom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Comidas\frmCargarCom.resx">
+      <DependentUpon>frmCargarCom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Comidas\frmModCom.resx">
+      <DependentUpon>frmModCom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Empleados\BorrarEmp.resx">
+      <DependentUpon>BorrarEmp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Empleados\CargarEmpleado.resx">
+      <DependentUpon>CargarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Empleados\ModEmpleado.resx">
+      <DependentUpon>ModEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Ingredientes\BorrarIng.resx">
+      <DependentUpon>BorrarIng.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Ingredientes\frmCargarIngr.resx">
+      <DependentUpon>frmCargarIngr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Ingredientes\ModIngred.resx">
+      <DependentUpon>ModIngred.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Menues Diarios\CargarMenu.resx">
+      <DependentUpon>CargarMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Productos\BorrarProd.resx">
+      <DependentUpon>BorrarProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Productos\CargarProducto.resx">
+      <DependentUpon>CargarProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Productos\ModProd.resx">
+      <DependentUpon>ModProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\BajaProv.resx">
+      <DependentUpon>BajaProv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\Cargar\CargarProveedor.resx">
+      <DependentUpon>CargarProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\ModProv.resx">
+      <DependentUpon>ModProv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\ReacProv.resx">
+      <DependentUpon>ReacProv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ProvIngr\frmBorProvIng.resx">
+      <DependentUpon>frmBorProvIng.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ProvIngr\frmCarProvI.resx">
+      <DependentUpon>frmCarProvI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ProvProd\BorProvP.resx">
+      <DependentUpon>BorProvP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ProvProd\CarProvP.resx">
+      <DependentUpon>CarProvP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Servicios\BorrarSer.resx">
+      <DependentUpon>BorrarSer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Servicios\CarSer.resx">
+      <DependentUpon>CarSer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Servicios\ModSer.resx">
+      <DependentUpon>ModSer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Background.resx">
+      <DependentUpon>Background.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cierre Caja\BuscarCajaDiaria.resx">
+      <DependentUpon>BuscarCajaDiaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cierre Caja\BuscarCajaMensual.resx">
+      <DependentUpon>BuscarCajaMensual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cierre Caja\CierreDiario.resx">
+      <DependentUpon>CierreDiario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cierre Caja\CierreMensual.resx">
+      <DependentUpon>CierreMensual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cierre Caja\MenuCierreCaja.resx">
+      <DependentUpon>MenuCierreCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Comanda.resx">
+      <DependentUpon>Comanda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Compras.resx">
+      <DependentUpon>Compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\CrearComanda.resx">
+      <DependentUpon>CrearComanda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Facturar.resx">
+      <DependentUpon>Facturar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\frmKiosco.resx">
+      <DependentUpon>frmKiosco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\frmTicketFactura.resx">
+      <DependentUpon>frmTicketFactura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Mesas.resx">
+      <DependentUpon>Mesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio_Sesion.resx">
+      <DependentUpon>Inicio_Sesion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menues\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\CancelacionDePago.resx">
+      <DependentUpon>CancelacionDePago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\Imprimir_ComprobanteReserva.resx">
+      <DependentUpon>Imprimir_ComprobanteReserva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\ReciboSalon.resx">
+      <DependentUpon>ReciboSalon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\Reservas.resx">
+      <DependentUpon>Reservas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salon\SalonMenu.resx">
+      <DependentUpon>SalonMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Menores Autorizados\AutorizacionMenor.resx">
+      <DependentUpon>AutorizacionMenor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Menores Autorizados\BorrarMenor.resx">
+      <DependentUpon>BorrarMenor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Menores Autorizados\ModMenor.resx">
+      <DependentUpon>ModMenor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\BorrarSocio.resx">
+      <DependentUpon>BorrarSocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Menores Autorizados\CargarMenor.resx">
+      <DependentUpon>CargarMenor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\CargarSocio.resx">
+      <DependentUpon>CargarSocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\Cuenta Corriente\MorososCC.resx">
+      <DependentUpon>MorososCC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\ModSocio.resx">
+      <DependentUpon>ModSocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\Cuenta Corriente\Pago CC.resx">
+      <DependentUpon>Pago CC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios.resx">
+      <DependentUpon>Socios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\Cuenta Corriente\ReciboCC.resx">
+      <DependentUpon>ReciboCC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\Socios\ReacSocio.resx">
+      <DependentUpon>ReacSocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Generar OrdenCompra\OrdenCompra.resx">
+      <DependentUpon>OrdenCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Generar OrdenCompra\OrdenCompraImpr.resx">
+      <DependentUpon>OrdenCompraImpr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\MenuStock.resx">
+      <DependentUpon>MenuStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Pago a Proveedor\Cheque.resx">
+      <DependentUpon>Cheque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Pago a Proveedor\PagoProv.resx">
+      <DependentUpon>PagoProv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Punto de Pedido\PuntoPedido.resx">
+      <DependentUpon>PuntoPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Recepcion de Mercaderia\Recepción De Mercaderia.resx">
+      <DependentUpon>Recepción De Mercaderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock Y Reposicion\Recepcion de Mercaderia\Reclamo_Imprimir.resx">
+      <DependentUpon>Reclamo_Imprimir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\BorrarUser.resx">
+      <DependentUpon>BorrarUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\CambiarContraseña.resx">
+      <DependentUpon>CambiarContraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\CamPerm.resx">
+      <DependentUpon>CamPerm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\RegistrarUser.resx">
+      <DependentUpon>RegistrarUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cheque" />
+    <None Include="Resources\rohjoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VERDWEEE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comanda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comandaneww.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comandanewwwwwsa.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comandafinishh.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_SinLetras.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Chico.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupapng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupafinished.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICONN.ico" />
+    <None Include="Resources\OrdenCompraChico.PNG" />
+    <None Include="Resources\ChequeChico.PNG" />
+    <None Include="Resources\background.PNG" />
+    <None Include="Resources\user_icon_004.jpg" />
+    <None Include="Resources\user icon.png" />
+    <None Include="Resources\RECLAMOPROVEEDOR.PNG" />
+    <None Include="Resources\ORDEN DE COMPRA.PNG" />
+    <None Include="Resources\logopequeño!!.PNG" />
+    <None Include="Resources\AUTORIZACIONMENOREDAD.PNG" />
+    <None Include="Resources\USERPNG.PNG" />
+    <None Include="Resources\RECIBO.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
